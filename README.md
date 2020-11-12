@@ -3,7 +3,7 @@ Data science portfolio.
 
 # [Project 1: Spiritual person classifier: Project overview](https://github.com/Nihal72/ImageClassification)
 
-## [Click here to use.](https://spirtual-being-classifier-v3nv.herokuapp.com/)
+## Live at [Click here to use.](https://spirtual-being-classifier-v3nv.herokuapp.com/)
 * Developed an end-to-end image classifier, it can Predict the name of 9 Spiritual being based on their image. 
 * Over 1000 images were collected from google images by performing web scraping using python.
 * Data cleaning and face detection was performed using Haar-cascade in OpenCV. 
