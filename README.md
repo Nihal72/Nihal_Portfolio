@@ -10,5 +10,4 @@ Data science portfolio.
 * To prevent overfitting, I used 10-fold cross-validation, Random Forest Classifier was used to train the model and to find the best parameters I have used GridSearchCV       algorithm, which was 92% accurate.  
 * By doing Error analysis, F-1 score was found low for those persons which have low variety of images and contains noise in the images, model was giving false predictions sometimes for similar looking persons like Sadhguru and Osho. 
 * Build an interactive Web app  using streamlit.  
-* Web app was deployed to production using heroku.  
-* Reference: Github link 
+* Web app was deployed to production using heroku. 
