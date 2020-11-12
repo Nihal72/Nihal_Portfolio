@@ -20,7 +20,7 @@ Data science portfolio.
 3. Activate the virtual environment 
 ```venv/Scripts/activate```
 4. go to Server directory 
-```cd ./ImageClassification/Spirtual_gurus_classification_v3/Server/`` 
+```cd ./ImageClassification/Spirtual_gurus_classification_v3/Server/```
 5. Install the required libraries in requirements.txt 
 ```pip install -r requirements.txt```
 6. Run the streamlit app 
