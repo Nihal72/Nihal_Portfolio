@@ -1,7 +1,7 @@
 # Nihal_Portfolio
 Data science portfolio.
 
-# Project 1: Spiritual person classifier: Project overview
+# [Project 1: Spiritual person classifier: Project overview] (https://github.com/Nihal72/ImageClassification)
 
 * Live at  https://spirtual-being-classifier-v3nv.herokuapp.com/ 
 * Developed an end-to-end image classifier, it can Predict the name of 9 Spiritual being based on their image. 
